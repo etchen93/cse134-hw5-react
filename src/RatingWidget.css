@@ -1,0 +1,7 @@
+#rating-widget-container {
+  background-color: #91d3ff;
+  border: 1px solid rgba(31, 163, 252, 0);
+  display: inline-block;
+  padding: 1rem;
+  border-radius: .5rem;
+}
